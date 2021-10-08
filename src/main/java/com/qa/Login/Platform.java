@@ -1,4 +1,4 @@
-package com.qa;
+package com.qa.Login;
 
 public class Platform {
     public void startPlatform(){
